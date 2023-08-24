@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @benkedda-louai
-- 👀 I’m interested in Deep Learning And Machine Learning
-- 🌱 I’m currently learning React js 
-- 💞️ I’m looking to collaborate on Somu raqami
-- 📫 How to reach me benkeddalouai30@gmail.com
+# Hello, I'm Benkedda Louai Siradj Eddine!
 
-<!---
-benkedda-louai/benkedda-louai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Profile Banner](https://example.com/banner-image.jpg)](https://github.com/benkedda-louai)
+
+I'm a passionate [Your Profession] based in [Your Location]. I love [Your Interests/Hobbies] and enjoy [Your Activities]. 
+
+## 🔭 What I'm Working On front-end developer
+
+- 🌱 Currently learning react js
+- 👯 Looking to collaborate on meta
+- 🤔 Looking for help with learning
+
+## 📫 How to Reach Me
+
+- 📧 Email: [your@email.com](mailto:your@email.com)
+- 💬 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- 📷 Instagram: [@yourinstagramhandle](https://instagram.com/yourinstagramhandle)
+
+## 🚀 My GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌐 Find Me Around the Web
+
+- [Portfolio Website](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Dev.to](https://dev.to/yourusername)
+

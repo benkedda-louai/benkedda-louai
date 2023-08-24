@@ -12,9 +12,9 @@ I'm a passionate Front-End Developer based in Somu Raqami. I love creating web e
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [benkedda.louaisiradjeddine@univ-ouargla.dz](mailto:benkedda.louaisiradjeddine@univ-ouargla.dz)
 - 💬 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 📷 Instagram: [@yourinstagramhandle](https://instagram.com/yourinstagramhandle)
+- 📷 Instagram: [@louaibenkedda](https://www.instagram.com/louaibenkedda/)
 
 ## 🚀 My GitHub Stats
 
@@ -22,6 +22,5 @@ I'm a passionate Front-End Developer based in Somu Raqami. I love creating web e
 
 ## 🌐 Find Me Around the Web
 
-- [Portfolio Website](https://yourportfolio.com)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Dev.to](https://dev.to/yourusername)
+- [LinkedIn](www.linkedin.com/in/louai-siradj-eddine-benkedda-38515225a)
+- [Dev.to](https://dev.to/benkeddalouai)

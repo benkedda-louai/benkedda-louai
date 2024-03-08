@@ -1,6 +1,6 @@
 # Hello, I'm Louai Siradj Eddine Benkedda!
 
-[![Profile Banner](https://example.com/banner-image.jpg)](https://github.com/yourusername)
+[![Profile Banner](https://example.com/banner-image.jpg)](https://github.com/benkedda-louai)
 
 I'm a passionate Front-End Developer based in Somu Raqami. I love creating web experiences using HTML, CSS, and JavaScript. I specialize in React.js and enjoy working with UI frameworks like Bootstrap and Tailwind CSS.
 

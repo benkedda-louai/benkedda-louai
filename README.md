@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer based in Somu Raqami. I love creating web e
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [benkedda.louaisiradjeddine@univ-ouargla.dz](mailto:benkedda.louaisiradjeddine@univ-ouargla.dz)
+- 📧 Email: [benkeddalouai30@gmail.com](mailto:benkeddalouai30@gmail.com)
 - 💬 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - 📷 Instagram: [@louaibenkedda](https://www.instagram.com/louaibenkedda/)
 
